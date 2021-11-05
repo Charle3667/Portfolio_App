@@ -11,6 +11,7 @@
 		895FF29A27355A570011F854 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 895FF29927355A570011F854 /* ContentView.swift */; };
 		895FF29C27355A570011F854 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 895FF29B27355A570011F854 /* Assets.xcassets */; };
 		895FF29F27355A570011F854 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 895FF29E27355A570011F854 /* Preview Assets.xcassets */; };
+		895FF2A7273560D00011F854 /* Launch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 895FF2A6273560D00011F854 /* Launch.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		895FF29927355A570011F854 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		895FF29B27355A570011F854 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		895FF29E27355A570011F854 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		895FF2A6273560D00011F854 /* Launch.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Launch.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		895FF29627355A570011F854 /* Charlie Fordon */ = {
 			isa = PBXGroup;
 			children = (
+				895FF2A6273560D00011F854 /* Launch.storyboard */,
 				895FF29727355A570011F854 /* Charlie_FordonApp.swift */,
 				895FF29927355A570011F854 /* ContentView.swift */,
 				895FF29B27355A570011F854 /* Assets.xcassets */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				895FF2A7273560D00011F854 /* Launch.storyboard in Resources */,
 				895FF29F27355A570011F854 /* Preview Assets.xcassets in Resources */,
 				895FF29C27355A570011F854 /* Assets.xcassets in Resources */,
 			);
