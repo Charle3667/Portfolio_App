@@ -55,7 +55,7 @@
     <resources>
         <image name="LogoDL" width="1280" height="949"/>
         <namedColor name="gradient1">
-            <color red="0.43226301670074463" green="0.67292505502700806" blue="0.56569617986679077" alpha="0.63209843635559082" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.43200001120567322" green="0.67299997806549072" blue="0.56599998474121094" alpha="0.63200002908706665" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
     </resources>
 </document>
